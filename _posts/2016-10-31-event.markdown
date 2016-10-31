@@ -1,5 +1,5 @@
 ---
 published: false
-title: Event
+title: The first blog of my life
 layout: post
 ---
